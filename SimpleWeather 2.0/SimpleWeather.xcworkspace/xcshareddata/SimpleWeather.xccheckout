@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6B37ED37-A813-485A-B7E6-9DF2B08CE6AF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SimpleWeather</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>74BCBED6-34BB-46B5-A8E8-4662A24CCFA0</key>
+		<string>ssh://github.com/jasperwanglin/SimpleWeather.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SimpleWeather 2.0/SimpleWeather.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>74BCBED6-34BB-46B5-A8E8-4662A24CCFA0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/jasperwanglin/SimpleWeather.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>74BCBED6-34BB-46B5-A8E8-4662A24CCFA0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>74BCBED6-34BB-46B5-A8E8-4662A24CCFA0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SimpleWeather</string>
+		</dict>
+	</array>
+</dict>
+</plist>

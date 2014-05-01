@@ -14,6 +14,7 @@
 @property (nonatomic, strong) UIImageView *backgroundImageView;
 @property (nonatomic, strong) UIImageView *blurredImageView;
 @property (nonatomic, strong) UIImageView *shareImageView;
+//
 
 @end
 
